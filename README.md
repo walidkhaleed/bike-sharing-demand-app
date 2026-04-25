@@ -22,7 +22,7 @@ A raw timestamp ("2012-05-14 08:00:00") isn't very useful to a machine learning 
 ## How to Run the App Locally
 If you want to run this Streamlit app on your local machine, run the following commands in your terminal:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/bike-sharing-demand-app.git](https://github.com/YOUR_USERNAME/bike-sharing-demand-app.git)
+git clone [https://github.com/walidkhaleed/bike-sharing-demand-app.git](https://github.com/walidkhaleed/bike-sharing-demand-app.git)
 cd bike-sharing-demand-app
 pip install -r requirements.txt
 streamlit run app.py
