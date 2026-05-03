@@ -1,5 +1,5 @@
 
-# 🚲 City Bike Sharing Demand Predictor
+# City Bike Sharing Demand Predictor
 
 ## Project Overview
 This project predicts the hourly demand for city bike rentals based on weather conditions and human behavioral patterns. It includes an end-to-end machine learning pipeline and a fully functioning web application built with Streamlit.
