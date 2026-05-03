@@ -1,4 +1,3 @@
-https://bikesshare.streamlit.app/
 
 # 🚲 City Bike Sharing Demand Predictor
 
